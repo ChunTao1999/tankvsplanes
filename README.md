@@ -21,3 +21,6 @@ https://github.com/user-attachments/assets/20fd9c03-ad6e-4ec3-a161-8de09d3a0268
 6. This project uses acm.graphics package from the [ACM library](https://cs.stanford.edu/people/eroberts/jtf/javadoc/student/), so you need to download it from [here](https://cs.stanford.edu/people/eroberts/jtf/). Download the `acm.jar` file. Then click on the project in Eclipse, go to `Build Path` -> `Add External Archives`, in the dialog, select the `acm.jar` file you just downloaded and click `Open`. The library will be added as a referenced library to your project.
 7. In Eclipse, compile the project by clicking on the `Project` -> `Clean` and then `Project` -> `Build Automatically`.
 8. Finally, run the game by going to `Run` -> `Run As` -> `Java Applet`. Select `finalProject.GameInterface` as the Applet to run. The game should start in a new window.
+
+For reference, your project structure should look like this:   
+![Project Structure](image.png)
